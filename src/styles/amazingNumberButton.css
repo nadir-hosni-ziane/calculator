@@ -1,0 +1,10 @@
+.butt-calc {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 100px;
+    width: 100px;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 5px;
+    flex-wrap: 3;
+}
